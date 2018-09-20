@@ -63,14 +63,16 @@ void fct14() {
 
 void fct15() {
 	
-	cout << "      ----      ----     " << endl;
-	cout << "            /-|          " << endl;
-        cout << "            |_|          " << endl;
-	cout << "                         " << endl;
-	cout << "         -------         " << endl;
-        cout << "       |         |       " << endl;  
-	cout << "       |         | 	  " << endl;
-	cout << "         -------         " << endl << endl;	
+
+	cout << "               ____________________       ----	      ----	---------------- -	" << endl;
+	cout << "             -                     -     -     -    -     -   -     		 |      " << endl;
+	cout << "            -                    -      -       -  -  	    - ---------		|       " << endl;
+        cout << "           -         - -------- 	-	  --	     -	      |	       |        " << endl;
+	cout << "          -        -     )  		-	  --	     -	     |	      |	        " << endl;
+	cout << "         -        - ____ )		-	  --	     -	    |	     |	        " << endl;
+        cout << "        -        - 			 -	 -  -	    -	   |	   |	        " << endl;  
+	cout << "       - 	   -   			  -	-    -	   -	 |	  |	        " << endl;
+	cout << "       -------------       		   -----      -----	----------		" << endl << endl;	
 
 	cout << "Les gens ont peur que la CAQ gagne des sieges a Montreal !" << endl << endl;
 
